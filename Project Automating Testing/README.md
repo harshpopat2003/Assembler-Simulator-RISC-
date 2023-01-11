@@ -1,16 +1,17 @@
-# Computer Oganization (CSE112) Project
+# Computer Oganization Project
 
-Simple Assembler and Simulator in Python along with their memory plots
+The project was to make a Simple Assembler and Simulator in Python 
+and along with their memory plots.
 
-## Run
+## To Run the Automated Testing 
 
-1. Clone this repository
-2. cd into the repo
-2. Go to the automatedTesting directory and execute the run file with appropiate options passed as arguments.
+1. Clone the repository
+2. Then enter into this folder in your linux system 
+3. Then go to the automatedTesting folder and execute the run file
 
-Options available for automated testing:
+You can pass with appropiate options of the arguments.
 1. --verbose: Prints verbose output
 2. --no-asm: Does not evaluate the assembler
 3. --no-sim: Does not evaluate the simulator
 
-Plot graphs are created upon execution of simulator
+<!--Plot graphs are created upon execution of simulator-->
